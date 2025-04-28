@@ -1,17 +1,14 @@
-# Machine Learning SafeTalks
+# Frontend SafeTalks
 
-Ini adalah folder untuk pengembangan dan pelatihan model Machine Learning untuk SafeTalks.
+Ini adalah folder untuk pengembangan antarmuka pengguna (frontend) SafeTalks.
 
 ## Teknologi
-- Scikit-Learn
-- Transformers (HuggingFace)
-- Pickle/joblib (for saving model)
+- React.js
+- WebSocket
+- TailwindCSS (opsional)
 
 ## Struktur Awal
-- notebooks/
 - src/
-  - train_model.py
-  - inference.py
-- models/
-  - bert_model.pkl
+- public/
+- package.json
 - README.md
