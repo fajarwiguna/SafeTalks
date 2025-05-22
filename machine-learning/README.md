@@ -4,15 +4,15 @@ Ini adalah folder untuk pengembangan dan pelatihan model Machine Learning untuk 
 
 ## Teknologi
 - Scikit-Learn
-- Transformers (HuggingFace)
+- LSTM 
 - Pickle/joblib (for saving model)
 
 ## Struktur Awal
 - notebooks/
 - src/
-  - train_model.py
+  - lstm_finetune.py
   - inference.py
 - models/
-  - bert_model.pkl
+  - lstm_model.tflite
 - README.md
 
