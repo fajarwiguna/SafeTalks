@@ -26,8 +26,8 @@ intents.message_content = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 # Model configuration
-vocab_size = 30000
-max_length = 50
+vocab_size = 20000
+max_length = 30
 oov_token = '<OOV>'
 
 # Emoji preprocessing
